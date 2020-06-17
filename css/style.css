@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgb(182, 0, 0);
+}
+
+.quem-somos {
+    background-color: rgb(160, 168, 165);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.servicos {
+    background-color: rgb(26, 148, 103);
+}
+
+.bg-footer {
+    background-color: rgb(134, 134, 134);
+}
